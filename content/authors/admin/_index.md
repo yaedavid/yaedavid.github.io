@@ -45,20 +45,39 @@ interests:
 
 education:
   - area: MSc Applied Mathematics and Computer Science
-    institution: People' Friendship University of Russia
+    institution: People's Friendship University of Russia
     date_start: 2024-09-01
+    date_end: 2026-07-01
+    summary: |
+      GPA: 4.3/5.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Applied Mathematics and Computer Science
-    institution: People' Friendship University of Russia
+    institution: People's Friendship University of Russia
     date_start: 2020-09-01
     date_end: 2024-07-01
     summary: |
       GPA: 4.3/5.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Cybersecurity Engineer
     company_name: Sber
     company_url: ''
     company_logo: ''
     date_start: 2023-11-07
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
