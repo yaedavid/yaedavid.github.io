@@ -27,11 +27,11 @@ Markdown was created in 2004 by John Gruber with the goal of making web writing 
 #### Getting Started with Markdown Syntax
 
 - **Headings**: Use # for headings. The more #, the smaller the heading.
-    '''
+    ```
     # Heading 1
     ## Heading 2
     ### Heading 3
-    '''
+    ```
    
 - **Bold and Italics**: Use **text** for bold and _text_ for *italic*.
     **This is bold text**
