@@ -52,9 +52,9 @@ education:
       GPA: 4.3/5.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Models of wireless networks
+      - Mathematical foundations of information protection and information security
+      - Scientific programming
   - area: BSc Applied Mathematics and Computer Science
     institution: People's Friendship University of Russia
     date_start: 2020-09-01
@@ -63,9 +63,9 @@ education:
       GPA: 4.3/5.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Computer architecture
+      - Operating systems
+      - Programming technologies
 work:
   - position: Cybersecurity Engineer
     company_name: Sber
@@ -75,9 +75,9 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Consideration of corporate architectures of subsidiaries and affiliates
+      - Adaptation of SSDLC processes in subsidiaries and affiliates
+      - Interaction with the Department of Corporate Architecture
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
