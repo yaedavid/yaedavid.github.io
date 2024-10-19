@@ -1,5 +1,5 @@
 ---
-title: ⚙️ Understanding Markdown
+title: 👅 Understanding Markdown
 summary: A Simple and Powerful Markup Language
 date: 2024-10-19
 authors:
@@ -34,46 +34,58 @@ Markdown was created in 2004 by John Gruber with the goal of making web writing 
     ```
    
 - **Bold and Italics**: Use **text** for bold and _text_ for *italic*.
+    ```
     **This is bold text**
     _This is italic text_
+    ```
 
 - **Lists**:
-   - Unordered lists use - or *.
-   - Ordered lists use numbers followed by a period (1.).
+    - Unordered lists use - or *.
+    Ordered lists use numbers followed by a period (1.).
+    ```
     - Item 1
     - Item 2
     
     1. First item
     2. Second item
-
+    ```
+    
 - **Links**: Create links with [text](URL).
+    ```
     [Click here](https://example.com)
-   
+    ```
 
 - **Images**: Similar to links, but with an exclamation mark before the text.
+    ```
     ![Alt text](https://example.com/image.jpg)
+    ```
    
-
 - **Code Blocks**: For inline code, wrap text with backticks (\`). For blocks of code, use triple backticks.
+    ```
     `inline code`
+    ```
 
 #### Advanced Features
 
 Markdown also supports more advanced features such as tables, blockquotes, and task lists, making it even more powerful.
 
 - **Blockquotes**: Use > to create a blockquote.
+    ```
     > This is a blockquote.
-   
+    ```
 
 - **Tables**: Simple tables can be created using pipes (|) and dashes (-).
+    ```
     | Column 1 | Column 2 |
     |----------|----------|
     | Row 1    | Row 2    |
-   
+    ```
 
 - Task Lists: Create checklists using - [ ] for unchecked items and - [x] for checked ones.
-   - [x] Task 1
-   - [ ] Task 2
+    ```
+    - [x] Task 1
+    - [ ] Task 2
+    ```
 
 #### Markdown in Practice
 
