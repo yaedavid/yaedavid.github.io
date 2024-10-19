@@ -84,18 +84,18 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 50
-        icon: code-bracket
       - name: C#
         description: ''
         percent: 100
         icon: code-bracket
+      - name: Python
+        description: ''
+        percent: 50
+        icon: chart-bar
       - name: Pentest
         description: ''
         percent: 20
-        icon: chart-bar
+        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
