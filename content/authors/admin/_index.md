@@ -86,7 +86,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 100
+        percent: 50
         icon: code-bracket
       - name: C#
         description: ''
@@ -96,10 +96,6 @@ skills:
         description: ''
         percent: 20
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 80
-        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -122,8 +118,6 @@ languages:
     percent: 100
   - name: English
     percent: 50
-  - name: Armenian
-    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
