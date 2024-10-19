@@ -86,31 +86,35 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: C#
         description: ''
         percent: 100
+        icon: code-bracket
+      - name: Pentest
+        description: ''
+        percent: 20
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 80
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Running
         description: ''
-        percent: 60
+        percent: 100
         icon: person-simple-walk
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Video editing
         description: ''
-        percent: 80
+        percent: 100
         icon: camera
 
 languages:
@@ -118,37 +122,35 @@ languages:
     percent: 100
   - name: English
     percent: 50
+  - name: Armenian
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: Cyber Guardian Award
+    url: http://top.yaedavid.ru
+    date: '2021-03-21'
+    awarder: ICF
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
+      Awarded for the development and implementation of advanced solutions in protecting data and systems from cyberattacks. Given to professionals and teams whose technologies and approaches have significantly reduced the risk of breaches and data leaks.
+  - title: Next-Gen Security Innovator
+    url: http://top.yaedavid.ru
+    date: '2022-07-18'
+    awarder: GCIS
     icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
+      An award for young professionals or startups that have introduced groundbreaking ideas or projects in the field of cybersecurity. It is awarded for innovative solutions based on artificial intelligence, machine learning, or quantum technologies for information protection.
+  - title: Incident Response Excellence Award
+    url: http://top.yaedavid.ru
+    date: '2023-11-23'
+    awarder: CDA
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      An award for teams and specialists who have demonstrated exceptional skills in responding to major security breaches and successfully mitigated threats, minimizing the impact of the attacks.
 ---
 
 ## About Me
