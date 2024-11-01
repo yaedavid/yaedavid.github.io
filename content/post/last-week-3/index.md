@@ -1,7 +1,7 @@
 ---
 title: 🎞️ My Last Week
 summary: A Week Full of Work, Creativity, and Fun Highlights
-date: 2024-11-02
+date: 2024-11-01
 authors:
   - admin
 tags:
