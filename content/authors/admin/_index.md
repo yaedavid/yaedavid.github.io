@@ -33,10 +33,18 @@ profiles:
   - icon: at-symbol
     url: 'mailto:yaedavid@ya.ru'
     label: E-mail Me
+  - icon: telegram
+    url: https://https://t.me/yaedavid_top
   - icon: brands/instagram
     url: https://www.instagram.com/yaedavidd
   - icon: brands/github
     url: https://github.com/yaedavid
+  - icon: orcid
+    url: https://orcid.org/0009-0007-2345-029X
+  - icon: researchgate
+    url: https://www.researchgate.net/profile/David-Avetisyan-2
+  - icon: academia
+    url: https://rudn.academia.edu/DavidAvetisyan
 
 interests:
   - Artificial Intelligence
@@ -149,4 +157,4 @@ awards:
 
 ## About Me
 
-David Arutrovich Avetisyan is a cybersecurity engineer at the Audit Department of the Cybersecurity Expertise Department of the Cybersecurity Department. He is engaged in the process of reviewing the corporate architectures of Sber's subsidiaries and affiliates. Also he adapts SSDLC processes in Sber's subsidiaries and affiliates.
+David Arturovich Avetisyan is a cybersecurity engineer at the Audit Department of the Cybersecurity Expertise Department of the Cybersecurity Department. He is engaged in the process of reviewing the corporate architectures of Sber's subsidiaries and affiliates. Also he adapts SSDLC processes in Sber's subsidiaries and affiliates.
