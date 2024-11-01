@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:yaedavid@ya.ru'
     label: E-mail Me
   - icon: assets/media/icons/telegram
-    url: https://https://t.me/yaedavid_top
+    url: https://t.me/yaedavid_top
   - icon: brands/instagram
     url: https://www.instagram.com/yaedavidd
   - icon: brands/github
