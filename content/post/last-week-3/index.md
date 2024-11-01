@@ -1,7 +1,7 @@
 ---
-title: 🎲 My Last Week
-summary: Boats, Servers, and Games
-date: 2024-10-19
+title: 🎞️ My Last Week
+summary: A Week Full of Work, Creativity, and Fun Highlights
+date: 2024-11-02
 authors:
   - admin
 tags:
@@ -12,26 +12,28 @@ image:
   caption: 'Last week'
 ---
 
-This past week has been an interesting mix of relaxation, tech exploration, and social fun. Here's a glimpse into how it went down.
+This past week was intense but rewarding, as it packed in six workdays and a few creative and social highlights. Here’s a breakdown of how things unfolded.
 
-#### A River Journey with a View
-Last weekend, I spent some quality time with my girlfriend on a river cruise along the Moscow River. There’s something magical about seeing the city from the water, with the landmarks drifting by as we enjoyed the cool autumn breeze. It was a great way to escape the usual hustle and take in the beauty of Moscow from a different perspective.
+#### Working on a Saturday
 
-#### Setting Up a VPS and Minecraft Server
-On the tech side of things, I finally took the plunge and bought a VPS server in Germany. After setting up a VPN on the server for secure browsing, I decided to take it a step further and installed a Minecraft server. This was something I had been planning for a while so that my friends and I could have our own world to build and explore. It's been running smoothly so far, and I'm looking forward to our next big gaming session.
+Normally, my workweek is five days, but this week was an exception as the government declared Saturday a working day. It was a tough push to keep up the pace for six consecutive days, especially given how packed each day was. But, as they say, "When the going gets tough, the tough get going!" Despite the additional workload, I managed to make some solid progress on my projects.
 
-#### "Freshman Debut" and a Stop at "Dezhurnaya"
-Midweek, I attended the "Freshman Debut" event at a local university. It was filled with energy and excitement as new students put on their first big performances. After the event, a group of us decided to keep the night going by heading to a cozy bar called "Dezhurnaya." It’s a bit of a hidden gem with a laid-back vibe – the perfect place to unwind after a long day.
+#### Mapping Bank System Interactions
 
-#### Billiards with Friends
-I also managed to squeeze in a night of billiards with some friends. We hadn’t played in a while, so it was fun to dust off our skills and have a bit of friendly competition. There’s something satisfying about the clink of pool balls and the strategy behind each shot – plus, it's always good for a laugh when someone accidentally sends a ball flying in the wrong direction.
+One of the key projects I tackled was designing a detailed interaction map for our bank’s systems with the systems of our subsidiary organizations. Visualizing these connections helped bring clarity to complex relationships and made the overall system structure easier to understand for the team. It felt satisfying to see the intricate web of connections drawn out, knowing it would help streamline our workflows.
 
-#### Office Games: Perudo
-To cap things off, we played a few rounds of "Perudo" at work with my colleagues. It’s a fun dice game that's perfect for unwinding after a busy day at the office. The mix of bluffing and chance always makes for an exciting (and sometimes frustrating) game. It's become a bit of a post-work tradition for us, and it's a great way to bond with the team outside of meetings and deadlines.
+#### Building the Longest Railroad in Minecraft
 
-#### Wrapping Up
-Looking back, it’s been a week filled with balance – from peaceful moments on the water to technical challenges and fun nights out with friends. It’s these diverse experiences that keep things exciting and remind me how important it is to make time for both work and play. Here's to more weeks like this!
+In my downtime, I took on a fun challenge in Minecraft: building the longest railroad I’ve ever constructed in the game! The process was both meditative and ambitious, but the feeling of finally seeing it come together was worth it. It became a reminder that sometimes, big tasks—whether virtual or real—just need patience and a steady pace.
 
---- 
+#### Attending the “Natal Chart” Event
 
-And that’s a snapshot of my last seven days. If you're into a blend of tech and lifestyle posts like this, stay tuned for more!
+This week also brought some intriguing moments outside of work. The student committee at my faculty organized an event called the "Natal Chart," where we explored astrological charts and discussed the idea of destiny from an interesting, lighthearted perspective. It was a unique experience that brought people together and let us explore a topic that’s both fun and thought-provoking.
+
+#### The Premiere of “Venom: The Last Dance”
+
+To wrap up the week, I caught the premiere of *Venom: The Last Dance*. The theater buzzed with energy as fans gathered for this highly anticipated release. The film was filled with action and suspense, and it made for a perfect way to unwind after such a packed schedule.
+
+---
+
+Despite the extra workload, balancing work and some creative and social highlights made the week feel productive and enjoyable. Here’s to more weeks filled with new challenges and memorable moments!
