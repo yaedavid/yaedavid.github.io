@@ -87,7 +87,7 @@ work:
       - Адаптация процессов SSDLC в дочерних и зависимых компаниях
       - Взаимодействие с Департаментом корпоративной архитектуры
 
-# Skills
+# Навыки
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Технические навыки
@@ -127,7 +127,7 @@ languages:
   - name: Английский
     percent: 50
 
-# Awards.
+# Награды.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
