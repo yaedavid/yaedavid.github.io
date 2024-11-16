@@ -33,13 +33,13 @@ profiles:
   - icon: at-symbol
     url: 'mailto:yaedavid@ya.ru'
     label: E-mail Me
-  - icon: telegram
+  - icon: brands/telegram
     url: https://t.me/yaedavid_top
-  - icon: instagram
+  - icon: brands/instagram
     url: https://www.instagram.com/yaedavidd
-  - icon: github
+  - icon: brands/github
     url: https://github.com/yaedavid
-  - icon: orcid
+  - icon: brands/orcid
     url: https://orcid.org/0009-0007-2345-029X
   - icon: custom/researchgate
     url: https://www.researchgate.net/profile/David-Avetisyan-2
