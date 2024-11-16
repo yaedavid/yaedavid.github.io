@@ -43,7 +43,7 @@ profiles:
     url: https://orcid.org/0009-0007-2345-029X
   - icon: custom/researchgate
     url: https://www.researchgate.net/profile/David-Avetisyan-2
-  - icon: custom/academia
+  - icon: custom/academia-black
     url: https://rudn.academia.edu/DavidAvetisyan
 
 interests:
