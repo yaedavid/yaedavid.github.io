@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Избранные проекты
+      text: Мне нравится создавать вещи. Вот подборка проектов, над которыми я работал в течение многих лет.
       filters:
         folders:
           - project

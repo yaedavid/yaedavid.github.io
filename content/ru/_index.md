@@ -32,14 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Мое исследование'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Используйте эту область, чтобы рассказать о своей миссии. Я научный сотрудник команды Moonshot в DeepMind. Я веду блог о машинном обучении, глубоком обучении и лунных проектах.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Я применяю ряд качественных и количественных методов, чтобы всесторонне исследовать роль науки и технологий в экономике.
         
-        Please reach out to collaborate 😃
+        Пожалуйста, свяжитесь со мной для сотрудничества 😃
     design:
       columns: '1'
   - block: collection
