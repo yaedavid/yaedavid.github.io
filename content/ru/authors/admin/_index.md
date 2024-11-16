@@ -41,9 +41,9 @@ profiles:
     url: https://github.com/yaedavid
   - icon: brands/orcid
     url: https://orcid.org/0009-0007-2345-029X
-  - icon: custom/researchgate-black
+  - icon: custom/researchgateblack
     url: https://www.researchgate.net/profile/David-Avetisyan-2
-  - icon: custom/academia-black
+  - icon: custom/academiablack
     url: https://rudn.academia.edu/DavidAvetisyan
 
 interests:
