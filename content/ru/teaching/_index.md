@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Обучение
+summary: Мои курсы
 type: landing
 
 cascade:
