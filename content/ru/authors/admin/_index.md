@@ -47,50 +47,50 @@ profiles:
     url: https://rudn.academia.edu/DavidAvetisyan
 
 interests:
-  - Artificial Intelligence
-  - Cybersecurity
-  - Big Data
+  - Искусственный интеллект
+  - Кибербезопасность
+  - Большие данные
 
 education:
-  - area: MSc Applied Mathematics and Computer Science
-    institution: People's Friendship University of Russia
+  - area: Магистр прикладной математики и информатики
+    institution: Российский университет дружбы народов имени Патриса Лумумбы
     date_start: 2024-09-01
     date_end: 2026-07-01
     summary: |
-      GPA: 4.3/5.0
+      Средний балл аттестата: 4.3/5.0
       
-      Courses included:
-      - Models of wireless networks
-      - Mathematical foundations of information protection and information security
-      - Scientific programming
-  - area: BSc Applied Mathematics and Computer Science
-    institution: People's Friendship University of Russia
+      Курсы включали:
+      - Модели беспроводных сетей
+      - Математические основы защиты информации и информационной безопасности
+      - Научное программирование
+  - area: Бакалавр прикладной математики и информатики
+    institution: Российский университет дружбы народов имени Патриса Лумумбы
     date_start: 2020-09-01
     date_end: 2024-07-01
     summary: |
-      GPA: 4.3/5.0
+      Средний балл аттестата: 4.3/5.0
       
-      Courses included:
-      - Computer architecture
-      - Operating systems
-      - Programming technologies
+      Курсы включали:
+      - Архитектура компьютера
+      - Операционные системы
+      - Технологии программирования
 work:
-  - position: Cybersecurity Engineer
-    company_name: Sber
+  - position: Инженер Кибербезопасности
+    company_name: Сбер
     company_url: ''
     company_logo: ''
     date_start: 2023-11-07
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - Consideration of corporate architectures of subsidiaries and affiliates
-      - Adaptation of SSDLC processes in subsidiaries and affiliates
-      - Interaction with the Department of Corporate Architecture
+      Обязанности включают:
+      - Рассмотрение корпоративных архитектур дочерних и зависимых компаний
+      - Адаптация процессов SSDLC в дочерних и зависимых компаниях
+      - Взаимодействие с Департаментом корпоративной архитектуры
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Технические навыки
     items:
       - name: C#
         description: ''
@@ -100,31 +100,31 @@ skills:
         description: ''
         percent: 50
         icon: chart-bar
-      - name: Pentest
+      - name: Пентест
         description: ''
         percent: 20
         icon: circle-stack
-  - name: Hobbies
+  - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Running
+      - name: Бег
         description: ''
         percent: 100
         icon: person-simple-walk
-      - name: Cats
+      - name: Кошки
         description: ''
         percent: 100
         icon: cat
-      - name: Video editing
+      - name: Видеомонтаж
         description: ''
         percent: 100
         icon: camera
 
 languages:
-  - name: Russian
+  - name: Русский
     percent: 100
-  - name: English
+  - name: Английский
     percent: 50
 
 # Awards.
@@ -132,29 +132,29 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Cyber Guardian Award
+  - title: Награда "Хранитель киберпространства"
     url: http://top.yaedavid.ru
     date: '2021-03-21'
     awarder: ICF
     icon: coursera
     summary: |
-      Awarded for the development and implementation of advanced solutions in protecting data and systems from cyberattacks. Given to professionals and teams whose technologies and approaches have significantly reduced the risk of breaches and data leaks.
-  - title: Next-Gen Security Innovator
+      Награда присуждается за разработку и внедрение передовых решений в области защиты данных и систем от кибератак. Присуждается профессионалам и командам, чьи технологии и подходы позволили значительно снизить риск взлома и утечки данных.
+  - title: Новатор в области безопасности нового поколения
     url: http://top.yaedavid.ru
     date: '2022-07-18'
     awarder: GCIS
     icon: edx
     summary: |
-      An award for young professionals or startups that have introduced groundbreaking ideas or projects in the field of cybersecurity. It is awarded for innovative solutions based on artificial intelligence, machine learning, or quantum technologies for information protection.
-  - title: Incident Response Excellence Award
+      Награда для молодых специалистов или стартапов, представивших новаторские идеи или проекты в области кибербезопасности. Присуждается за инновационные решения, основанные на искусственном интеллекте, машинном обучении или квантовых технологиях для защиты информации.
+  - title: Награда за выдающиеся достижения в области реагирования на инциденты
     url: http://top.yaedavid.ru
     date: '2023-11-23'
     awarder: CDA
     icon: datacamp
     summary: |
-      An award for teams and specialists who have demonstrated exceptional skills in responding to major security breaches and successfully mitigated threats, minimizing the impact of the attacks.
+      Награда для команд и специалистов, которые продемонстрировали исключительные навыки реагирования на крупные нарушения безопасности и успешно справились с угрозами, минимизировав последствия атак.
 ---
 
 ## About Me
 
-David Arturovich Avetisyan is a cybersecurity engineer at the Audit Department of the Cybersecurity Expertise Department of the Cybersecurity Department. He is engaged in the process of reviewing the corporate architectures of Sber's subsidiaries and affiliates. Also he adapts SSDLC processes in Sber's subsidiaries and affiliates.
+Давид Артурович Аветисян - инженер по кибербезопасности в Отделе аудита Управления экспертизы кибербезопасности Департамента кибербезопасности. Занимается анализом корпоративных архитектур дочерних и зависимых компаний Сбера. Также занимается адаптацией процессов SSDLC в дочерних и зависимых обществах Сбера.
